@@ -4,3 +4,4 @@
 4. >git remote add origin "url git repository"
 5. >git remote -v
 6. >git push -u origin master
+7. >git pull //my repostiories update
