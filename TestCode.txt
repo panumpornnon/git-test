@@ -3,4 +3,4 @@
 3. git global --config -
 4. >git remote add origin "url git repository"
 5. >git remote -v
->git push -u origin master
+6. >git push -u origin master
