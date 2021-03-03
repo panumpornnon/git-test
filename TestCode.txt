@@ -1,1 +1,6 @@
 1.Test Code File
+2.How to Git >git add .
+3. git global --config -
+4. >git remote add origin "url git repository"
+5. >git remote -v
+>git push -u origin master
